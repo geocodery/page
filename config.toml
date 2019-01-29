@@ -92,6 +92,11 @@ publishDir = "docs"
     name = "post"
     weight = 2
 
+[[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    weight = 2
+
 # [[menu.main]]
 #     parent = "post"
 #     name = "Big Image Sample"
@@ -110,7 +115,7 @@ publishDir = "docs"
 #     url = "post/2016-03-08-code-sample"
 #     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 3
