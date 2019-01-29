@@ -6,7 +6,7 @@
 theme = "beautifulhugo" # Set the theme.
 
 
-baseurl = "https://geocodery.github.io/home"
+baseurl = "https://geocodery.github.io/page"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "GEOCODERY"

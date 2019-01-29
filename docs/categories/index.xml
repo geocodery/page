@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GEOCODERY</title>
-    <link>https://geocodery.github.io/home/categories/</link>
+    <link>https://geocodery.github.io/page/categories/</link>
     <description>Recent content in Categories on GEOCODERY</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>geocodery@gmail.com (Daniel Aguado | Roy Yali | Jorge Yupanqui)</managingEditor>
     <webMaster>geocodery@gmail.com (Daniel Aguado | Roy Yali | Jorge Yupanqui)</webMaster>
     
-	<atom:link href="https://geocodery.github.io/home/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geocodery.github.io/page/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

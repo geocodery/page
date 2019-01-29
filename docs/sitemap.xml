@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://geocodery.github.io/home/page/about/</loc>
+    <loc>https://geocodery.github.io/page/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://geocodery.github.io/home/categories/</loc>
+    <loc>https://geocodery.github.io/page/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://geocodery.github.io/home/</loc>
+    <loc>https://geocodery.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://geocodery.github.io/home/page/</loc>
+    <loc>https://geocodery.github.io/page/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://geocodery.github.io/home/tags/</loc>
+    <loc>https://geocodery.github.io/page/tags/</loc>
     <priority>0</priority>
   </url>
   
